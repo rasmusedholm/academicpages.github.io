@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Student currently doing 4th year of a engineering degree, starting master in computational methods and physics in the fall "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
